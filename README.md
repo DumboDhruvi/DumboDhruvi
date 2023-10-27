@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DumboDhruvi
 - 👀 I’m interested in Video games
-- 🌱 I’m currently learning Java and python(more proficient in python)
+- 🌱 I’m currently learning C++ and python(more proficient in python)
 - 💞️ I’m looking to collaborate on Video games
 - 📫 How to reach me dhruv01112004@gmail.com
 
