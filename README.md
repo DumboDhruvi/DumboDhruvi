@@ -72,19 +72,19 @@ I'm open to connecting with like-minded individuals, whether it be for job oppor
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://linkedin.com/in/akshintv7" target="_blank">
+  <a href="https://linkedin.com/in/dhruvkumar2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">  
   </a>
-  <a href="mailto:akshintv7@gmail.com" target="_blank">
+  <a href="mailto:dhruv01112004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.kaggle.com/akshintvarma" target="_blank">
+  <a href="https://www.kaggle.com/dumbodhruvi" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://leetcode.com/u/DumboDhruvi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-    <a href="https://www.hackerrank.com/akshintv7" target="_blank">
+    <a href="https://www.hackerrank.com/profile/dhruv01112004" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
 
