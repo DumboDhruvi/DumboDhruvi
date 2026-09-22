@@ -129,7 +129,6 @@ I'm particularly interested in the idea of making computers and software **more 
 - 💼 **LinkedIn:** [Dhruv Kumar](https://linkedin.com/in/dhruv-kumar-3b32a01a9)
 - 💻 **GitHub:** [DumboDhruvi](https://github.com/DumboDhruvi)
 - 🧩 **LeetCode:** [DumboDhruvi](https://leetcode.com/u/DumboDhruvi/)
-- 🐦 **X:** [@DumboDhruvi](https://x.com/DumboDhruvi)
 - 🌐 **Website:** [dumbodhruvi.github.io](https://dumbodhruvi.github.io)
 
 ---
